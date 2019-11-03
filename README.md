@@ -1,7 +1,6 @@
 
 ## Welcome to 102d4 Class
 ## **First Trial**
-**## Second Trial**
 **Glad to have you here**
 
 _This is italic
