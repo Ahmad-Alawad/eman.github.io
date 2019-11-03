@@ -16,7 +16,7 @@ _This is italic
 
 [My Github](https://github.com/ahmad-alawad)
 
-[Funny Image](https://pbs.twimg.com/media/DBQljBuV0AAhjxO?format=jpg&name=240x240)
+![Funny Image](https://pbs.twimg.com/media/DBQljBuV0AAhjxO?format=jpg&name=240x240)
 
 
 
